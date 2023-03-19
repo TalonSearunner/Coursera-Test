@@ -1,0 +1,42 @@
+body{
+	background-color:gray
+	font-size:130
+}
+a:link, a:visited{
+	text-decoration: none;
+	background-color: green;
+	border: 1px solid blue;
+	font-size: 20px;
+	color:black;
+	display: block;
+	width:200px;
+	text-align: center;
+}
+a:hover, a:active{
+	background-color: red;
+	color: purple;
+}
+section{
+	color: blue;
+	font-size: 40px;
+	width: 200px
+}
+article{
+	color: black;
+	font-size: 20px;
+	width: 400px
+}
+h1{
+	color: black;
+	font-size: 60px;
+	text-align: center;
+}
+xxx{
+	color: black;
+	font-size: 60px;
+	font-weight: bold;
+	font-style: italic;
+	background-color: green;
+	opacity: .8;
+	text-align: center;
+}
